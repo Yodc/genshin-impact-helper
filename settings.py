@@ -21,7 +21,7 @@ class _Config:
     # LOG_LEVEL = logging.DEBUG
 
     # HoYoLAB
-    LANG = 'en-us'
+    LANG = 'th-th'
     OS_ACT_ID = 'e202102251931481'
     OS_REFERER_URL = 'https://webstatic-sea.mihoyo.com/ys/event/signin-sea/index.html?act_id={}'.format(OS_ACT_ID)
     OS_REWARD_URL = 'https://hk4e-api-os.mihoyo.com/event/sol/home?lang={}&act_id={}'.format(LANG, OS_ACT_ID)
