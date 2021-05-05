@@ -91,7 +91,7 @@ class Sign(Base):
                 str(self.uid)[1:7], '******', 1)
 
             log.info(f'Checking in account id {uid}...')
-            time.sleep(10)
+            time.sleep(3)
             message = {
                 'today': today,
                 'region_name': region_name,
