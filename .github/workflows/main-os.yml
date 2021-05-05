@@ -19,6 +19,9 @@ jobs:
         with:
           fetch-depth: 0
           # ref: master
+          
+      - name: Set time zone
+        run: sudo timedatectl set-timezone 'Asia/Bangkok'
 
       - name: Set up python
         uses: actions/setup-python@v2
