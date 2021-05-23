@@ -8,6 +8,12 @@
 
 [Napkatti fork](https://github.com/napkatti/genshin-impact-helper/)
 
+# UPDATED METHOD
+
+Check out the guide below for the new easier method to setup the login helper
+
+https://github.com/am-steph/genshin-impact-helper/wiki/Wayscript
+
 
 # Running Locally
 
