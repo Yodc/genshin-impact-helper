@@ -14,7 +14,7 @@
 Check out napkatti fork on setting variables and running locally
 [napkatti fork](https://github.com/napkatti/genshin-impact-helper/tree/master)
 
-# Heroku
+# Heroku (Check the Wiki for the latest instructions and updates)
 
 [Broken Down Instructions](https://github.com/am-steph/genshin-impact-helper/wiki)
 
