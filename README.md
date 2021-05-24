@@ -1,28 +1,22 @@
 # Genshin Impact Check-In Helper
 
-[Daily Check-In](https://webstatic-sea.mihoyo.com/ys/event/signin-sea/index.html?act_id=e202102251931481&lang=en-us)
+This repo will summarise all the possible methods for auto check-in. If you found this website from my YouTube (taka gg), that method (Github Actions) is **no longer advisible** as it is against Github Terms of Service (botting) when you are only registering account to use the Github actions.
 
-[Original Repository (defunct)](https://github.com/y1ndan/genshin-impact-helper)
+The auto check-in feature is for [Genshin Impact Web Daily Check-In](https://webstatic-sea.mihoyo.com/ys/event/signin-sea/index.html?act_id=e202102251931481&lang=en-us) introduced by miHoYo few months back.
 
-[TakaGG fork](https://github.com/takagg/genshin-impact-helper)
+## ALTERNATIVE METHOD (Much safer)
 
-[Napkatti fork](https://github.com/napkatti/genshin-impact-helper/)
+[Wayscript](https://github.com/am-steph/genshin-impact-helper/wiki/Wayscript)
 
-## NEW ALTERNATIVE METHOD (Much safer)
+[Heroku](https://github.com/am-steph/genshin-impact-helper/tree/heroku)
 
-[am-steph fork (Heroku tutorial)](https://github.com/am-steph/genshin-impact-helper/tree/heroku)
+[Run locally on PC/Raspberry PI](https://github.com/napkatti/genshin-impact-helper/)
 
-## Update on existing method (Github Actions)
-
-It is not advisible to use Github Actions for auto check-in as it is **against Github terms of service**.
-
-Please check [am-steph fork (Heroku)](https://github.com/am-steph/genshin-impact-helper/tree/heroku) if you wish to auto check-in with the help of another free web services similar to Github action.
-
-Please check [Napkatti fork](https://github.com/napkatti/genshin-impact-helper/) README for explanation on why using this Github action is risky.
+## Further help
 
 If you need any help or discussion, please find us in [TakaGG Discord](https://discord.gg/takagg) at `#autocheckin-chat channel`.
 
-I will not make any changes to the instructions below, but **please use it at your own risk**.
+I will not make any changes to the instructions below, but **please keep in mind that this is against Github ToS and your account might get deactivated. Please use it at your own risk**.
 
 ## Usage (Not advisible)
 
